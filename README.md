@@ -103,10 +103,10 @@ Acceder en: http://localhost:8000
 
 | Rama | Descripción |
 |------|-------------|
-| `main` | Rama principal estable |
-| `feature/docker` | Configuración de contenedores |
-| `feature/ci-cd` | Configuración de GitHub Actions |
-| `feature/docs` | Documentación y archivos de configuración |
+| `master` | Rama principal estable |
+| `feature/interfaz` | Configuración de interfaz |
+| `feature/validaciones` | Configuración de Validaciones |
+| `feature/documentacion` | Documentación y archivos de configuración |
 
 ---
 
